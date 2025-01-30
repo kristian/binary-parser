@@ -1,7 +1,7 @@
 {
-  "name": "binary-parser",
+  "name": "binary-parser-encoder-bump",
   "version": "2.2.1",
-  "description": "Blazing-fast binary parser builder",
+  "description": "Blazing-fast binary parser / encoder builder",
   "main": "dist/binary_parser.js",
   "types": "dist/binary_parser.d.ts",
   "module": "dist/esm/binary_parser.mjs",
@@ -58,14 +58,23 @@
     {
       "name": "Eric Blanchard",
       "email": "ericbla@gmail.com"
+    },
+    {
+      "name": "Tom Alon",
+      "email": "tom@stereokai.com"
+    },
+    {
+      "name": "Kristian Kraljic",
+      "email": "kris@kra.lc",
+      "url": "https://kra.lc/"
     }
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/Ericbla/binary-parser.git"
+    "url": "https://github.com/kristian/binary-parser.git"
   },
-  "bugs": "http://github.com/Ericbla/binary-parser/issues",
+  "bugs": "https://github.com/Ericbla/binary-parser/issues",
   "engines": {
     "node": ">=14"
   },

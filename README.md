@@ -1,14 +1,8 @@
-# Binary-parser
+# binary-parser-encoder-bump
 
-[![build](https://github.com/keichi/binary-parser/workflows/build/badge.svg)](https://github.com/keichi/binary-parser/actions?query=workflow%3Abuild)
-[![npm](https://img.shields.io/npm/v/binary-parser)](https://www.npmjs.com/package/binary-parser)
-[![license](https://img.shields.io/github/license/keichi/binary-parser)](https://github.com/keichi/binary-parser/blob/master/LICENSE)
+This is a fork of [Tom Alon's updated fork](https://github.com/stereokai/binary-parser) of [Eric Blanchard's `binary-parser-encoder` fork](https://github.com/Ericbla/binary-parser) adding encoding capabilities to the original [`binary-parser` by Keichi Takahashi](https://github.com/keichi/binary-parser). Until the the *encoding* feature is merged in baseline of original project, this fork / branch is published under the name: **binary-parser-encoder-bump** on [NPM](https://www.npmjs.com/package/binary-parser-encoder-bump).
 
-Until the *encoding* feature is merged in baseline of original project,
-this branch is published under the name: **binary-parser-encoder** in [npm](https://npmjs.org/).
-
-[![build](https://github.com/Ericbla/binary-parser/workflows/build/badge.svg)](https://github.com/Ericbla/binary-parser/actions?query=workflow%3Abuild)
-[![npm](https://img.shields.io/npm/v/binary-parser-encoder)](https://www.npmjs.com/package/binary-parser-encoder)
+[![npm](https://img.shields.io/npm/v/binary-parser-encoder-bump)](https://www.npmjs.com/package/binary-parser-encoder-bump)
 
 Binary-parser is a parser/encoder builder for JavaScript that enables you to write
 efficient binary parsers/encoders in a simple and declarative manner.
